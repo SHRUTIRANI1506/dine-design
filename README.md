@@ -11,7 +11,7 @@
 
   It includes features such as dynamically scrollable sections and buttons that allow users to smoothly navigate up and down the page.
 
-  <a href=" https://shrutirani1506.github.io/dine-design/"><strong>➥ Live Demo</strong></a>
+  <a href= "https://shrutirani1506.github.io/dine-design/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
